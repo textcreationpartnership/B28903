@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance, proving that the confinement of trade, to particular companies, is of general losse to His Majesty, and His people</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28903</idno><idno type="EEBO-CITATION">99831990</idno>
+  <idno type="VID">198825</idno>
+  <idno type="EEBO-PROQUEST">2269047458</idno>
+  
+            <idno type="STC">Wing R1027</idno>
+            <idno type="PROQUEST">99831990</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831990e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198825)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance, proving that the confinement of trade, to particular companies, is of general losse to His Majesty, and His people</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.b.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trading companies --  England --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:198825:1"/>
+            <head>A REMONSTRANCE, Proving that the Confinement of <hi>TRADE,</hi> to particular Companies, is of general Losse to His Majesty, and His People.</head>
+            <p>WHereas the <hi>Merchant Adventurers</hi> (as they stile themselves) under pretext of Advantage to his Majesty, and advance of Trade, are restless in their attempts, to obtain a Charter confirm'd for the ingrossing the whole Trade of this Nation to themselves. If the said Charter should be confirm'd, the consequent Narration will manifest those persons unca<g ref="char:EOLhyphen"/>pable to buy from the Makers the twentieth part of the Commodities now made and vended in this Country, being easy to prove the said Company now Trade, as far as either Estate or Credit doth permit them, seeing several of them have lately come short, by extending their Credits in that particular: And if they were more in quantity, or greater in quality than now they are, the subsequent Particulars declare the Trade of these parts, to be far exceeding their power to manage, or Estates to compasse; which if so, an im<g ref="char:EOLhyphen"/>partial eye may easily s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the vast losse likely to ensue to his Majesty, to the Gentry, and to the Commonalty of this Nation.</p>
+            <p n="1">I. The Particulars of Goods exported b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hose Merchants, Free of said Company, and by those Unfree of said Company, will evidence how far his Majesty will be a loser, if said Trade should be limitted, and Charter confirmed.</p>
+            <p>
+               <table>
+                  <head>An Account of all sorts of Wooll<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Manufactures, entered in the Custom-House of <hi>Exon,</hi> and transported into part of the sixteen Provinces of the <hi>Neitherlands,</hi> from <hi>June 24. 1661.</hi> to the <hi>29. September,</hi> next following; for Account of several persons Free of said Company, of <hi>Merchant Adventurers.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>li.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ss.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>One hundred and thirty Pieces of Sarges,</cell>
+                     <cell>4.</cell>
+                     <cell>07.</cell>
+                     <cell>09.</cell>
+                  </row>
+                  <row>
+                     <cell>Ten Pieces of Broadcloath,</cell>
+                     <cell>1.</cell>
+                     <cell>01.</cell>
+                     <cell>03.</cell>
+                  </row>
+                  <row>
+                     <cell>Five Pieces of Karsies,</cell>
+                     <cell>0.</cell>
+                     <cell>03.</cell>
+                     <cell>08. ½</cell>
+                  </row>
+                  <row>
+                     <cell>Seventy Pieces of of <hi>Devon</hi> Dozens,</cell>
+                     <cell>1.</cell>
+                     <cell>11.</cell>
+                     <cell>02.</cell>
+                  </row>
+                  <row>
+                     <cell>Ten Pieces of Bayes,</cell>
+                     <cell>1.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Those</hi> 225 <hi>Pieces pay His Majesty Custom,</hi>
+                     </cell>
+                     <cell>8.</cell>
+                     <cell>03.</cell>
+                     <cell>10. ½</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>An Account of all sorts of Woollen Manufactures, entered in the said Custom-House, of <hi>Exon,</hi> and transported into the said <hi>Neitherlands,</hi> from <hi>June</hi> to <hi>September, 1661.</hi> by <hi>Mr. John Butler,</hi> and four or five Merchants more of the City of <hi>Exon,</hi> not Free of said Company, of <hi>Merchant Adventures.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>li.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ss.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Eight thousand six hundred thirty eight Pieces of Sarges, which pay Custom,</cell>
+                     <cell>287.</cell>
+                     <cell>11.</cell>
+                     <cell>03.</cell>
+                  </row>
+                  <row>
+                     <cell>Thirty Pieces of Karsies,</cell>
+                     <cell>001.</cell>
+                     <cell>01.</cell>
+                     <cell>03.</cell>
+                  </row>
+                  <row>
+                     <cell>Two hundred sixty five Pieces of Broadcloath,</cell>
+                     <cell>029.</cell>
+                     <cell>08.</cell>
+                     <cell>10. ½</cell>
+                  </row>
+                  <row>
+                     <cell>One hundred eighty two Pieces of Devon Dozens,</cell>
+                     <cell>004.</cell>
+                     <cell>01.</cell>
+                     <cell>01. ½</cell>
+                  </row>
+                  <row>
+                     <cell>One hundred twenty nine Pieces of Straits,</cell>
+                     <cell>002.</cell>
+                     <cell>00.</cell>
+                     <cell>11.</cell>
+                  </row>
+                  <row>
+                     <cell>Ten Pieces of Bayses,</cell>
+                     <cell>001.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Those</hi> 9254. <hi>Pieces pay His Majestie Custom,</hi>
+                     </cell>
+                     <cell>325.</cell>
+                     <cell>03.</cell>
+                     <cell>05.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Hence it is evident, should all Merchants not Free of said Company, be forbidden Trade, what an infinite losse His Majesty should sustain in His Customes, that in three Months those Merchants Free of the said Company, come short in pieces of those not Free of said Company, 9029 pieces, and in mony paid His Majesty for Custom, 316 <hi>l.</hi> 19 <hi>s.</hi> 6 <hi>d.</hi> ½ which the above-mentioned Par<g ref="char:EOLhyphen"/>ticulars do sufficiently demonstrate: And without dispute, the said Unfree Merchants would have transported greater quantities, had not the fear of the power of said Free Merchants deterred them. Moreover, the disproportion abovesaid is only of goods transported, which doubtlesse would be as great of goods imported, because it is not to be expected that the value of goods transported, will be greater than of goods imported: Hence it is deducible the infinite loss likely to accrue unto His said Majesty.</p>
+            <p n="2">II. The impartial Judgement may also see the great losse which will be to the poor of this Nation, (if said Company should be established) who in this cause will be the greatest sufferers.</p>
+            <p>Wherefore to make this apparent by the consequent Particulars, may be seen in proportioning a number of poor-Workmen to each mixt Sarge, and Broadcloath, whence thousands of poor, extract a livelyhood and maintainance by their labour in making those Manufactures, which if stinted to a small number of men, (not sufficient to manage the least part of it) the Gentleman, Farmer, and all other people of what degree soever, will insensibly come to ruine by this decay of Trade; which will be more visible by an exact scruting into the Charges of a particular piece of Sarge.</p>
+            <p>
+               <table>
+                  <head>The Cost of an ordinary mixt Sarge is as followeth, <hi>viz.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>li.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ss.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To every Piece of Sarge is allowed 24 <hi>l.</hi> of rough Wool, cost</cell>
+                     <cell>1.</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Dy ng of this Wool, with Combing, Sope, and Oyl, cost</cell>
+                     <cell>0.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Spinning of the Obbe, and Warp, cost</cell>
+                     <cell>0.</cell>
+                     <cell>17.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Warping, Spoaling, and Weaving, cost</cell>
+                     <cell>0.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Dressing of it after 'tis made, cost</cell>
+                     <cell>0.</cell>
+                     <cell>02.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Pressing of it, if hot prest, cost</cell>
+                     <cell>0.</cell>
+                     <cell>01.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>So the whole Charge of making a Piece of Sarge fit to be transported into any Foreign parts, amounts to</cell>
+                     <cell>3.</cell>
+                     <cell>03.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>I suppose you may see by this, that the making of a Sarge requires various sorts of people for each several Imployment, whose urgent necessities require a weekly supply of mony, or they must want bread, for it is not a work to be done by one person alone: Here also may be observed that the Wool of each Piece, cost but 23 <hi>s.</hi> the other 40 <hi>s.</hi> comes clear to the poor Workmen, who within the space of fourteen or sixteen dayes, by their industry and labour, bring this Wool into a Sarge, which contains 1. yard broad, and 22. yards long, fit for sale, and then reduce that into moneys for a new Imployment; the quick dispatch in making the said Commodity, and converting it to mony, is an advantage to the rich, and an help to the poor, who being supplyed constantly with mony, are made capable to buy off all sorts of Provision from the Gentleman, and Farmer, which could not be done, if Trade were limitted by this Company.</p>
+            <p>If there be 40. <hi>s.</hi> distributed amongst the poor for their labour, in making one Sarge, then those Sarges transported by the Merchants not Free of the said Company, would dispose amongst the poor in three months time, 17276. <hi>l.</hi> and the Merchants of <hi>Exeter,</hi> Free of the said Company, bestow amongst the poor, in three months, for the said Sarges, but 260. <hi>l.</hi> wherein they come short of the Unfree Merchants 17016. <hi>l.</hi>
+            </p>
+            <p>Having now proved the losse that the poor should sustain, (were the said Campany confirmed) in the making those Sarges, transported by the Unfree Merchants: Next shall demonstrate the Par<g ref="char:EOLhyphen"/>ticulars of a Broadcloath, which redound to the poor for their labour, and wages, also what quantity is necessary for the making of an ordinary Spanish Cloth, (of Wool) about the price of 7. <hi>s.</hi> or 7. <hi>s.</hi> 2. <hi>d. per</hi> yard, and that very good, substantial, and loyal Cloth.</p>
+            <p>
+               <table>
+                  <head>The Cost of an ordinary mixt Broadcloth is as followeth, <hi>viz.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>li.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>ss.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Wool allowed to every Pieces of Cloth, is 76. <hi>l.</hi> clean Wool, cost</cell>
+                     <cell>4.</cell>
+                     <cell>10.</cell>
+                     <cell>08.</cell>
+                  </row>
+                  <row>
+                     <cell>The Dying, Mixing, and Breaking this Wool, with the Oyl, cost</cell>
+                     <cell>0.</cell>
+                     <cell>15.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Spinning of the Obbe and Warp, cost</cell>
+                     <cell>1.</cell>
+                     <cell>15.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Warping, Spoaling, and Weaving the Cloth, cost</cell>
+                     <cell>1.</cell>
+                     <cell>00.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Dressing, and Shearing this Cloth, cost</cell>
+                     <cell>1.</cell>
+                     <cell>06.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Draing, Pressing, and making up in Tillets, fit for Sale, cost</cell>
+                     <cell>0.</cell>
+                     <cell>06.</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell>So the whole Charge of making a Broad Cloth, fit to be transported into Foreign parts, amounts to</cell>
+                     <cell>9.</cell>
+                     <cell>13.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>It is therefore now worth our noting, that the Wool of an ordinary Cloth, costs but 4 <hi>l.</hi> 10. <hi>s.</hi> 00. <hi>d.</hi> which comes short of half the value of the Cloth, the other part goes to the Workman, 5. <hi>l.</hi> 3 <hi>s.</hi> 00. <hi>d.</hi> for his labour and wages, in making of this sort of Cloth; But the charge of a better, sort will be greater, and proportionably advantageous to the poor Workman, according to the goodnesse of the said Commodity. This Trade of Cloth and Sarge, is carried on by a smal number of Merchants, of the said City of <hi>Exon,</hi> against whom the Dutch Company have a boundlesse malignity, be<g ref="char:EOLhyphen"/>cause themselves are deficient in the knowledge of those mysteries, wherein some of them are expert.</p>
+            <p n="3">III. Having now particularized the advantage of a free Trade to the poor Spinster, Weaver, Comber, Dyer, Tucker, and several other such Trades for their labour in making a Sarge or Cloth, in one quarter of a year.</p>
+            <p>My intert is next to shew what a vast quantiy of Wool the making of those Manufactures doth expend, which if interrupted by the said Company, will be a general losse to all His Majesties Sub<g ref="char:EOLhyphen"/>jects, for they lose not only the disposing of their Wool, but the vending of their Corn, Butter, Cheese, Bacon, and other such like necessaries, which will follow upon the obstructing of Trade, and making scarce of mony.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>li.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The quantity of Wool, expended on the Goods, transported by the Merchants of <hi>Exon</hi> (in three months time) not Free of the said Company, is</cell>
+                     <cell>234852. <hi>l.</hi> at 14. <hi>d.</hi>
+                     </cell>
+                     <cell rows="3">
+                        <hi>amounts to</hi>
+                     </cell>
+                     <cell>13699.</cell>
+                     <cell>14.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Wool spent by those Free of the Company in <hi>Exon</hi> in Goods, transported by them (in three months time) is in Wool</cell>
+                     <cell>5580. <hi>l.</hi>
+                     </cell>
+                     <cell>325.</cell>
+                     <cell>10.</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> there hath been spent in Wool, by the Unfree Merchants, more than those Free of the said Company, in three Months,</cell>
+                     <cell>229272. <hi>l.</hi>
+                     </cell>
+                     <cell>13374.</cell>
+                     <cell>04.</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This 13314. <hi>l.</hi> 4 <hi>s.</hi> being the value of the Wool expended on the Commodities transported by the Unfree Merchants, more than the value of the Wool used by the Free Merchants, is sufficiently able to shew the infinite loss apparently ensuing on the whole Kingdom, if none should be permitted to Trade, but such as are Free of the said Dutch Company.</p>
+            <div type="part">
+               <head>The manner how the TRADE decayes, is thus.</head>
+               <p>The Merchants of <hi>Exon</hi> not free of the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id Company, being obstructed in their Trade, by those free of the Company, have bought less quantities of all sorts of Manufactures than formerly, which hath reduced the Trade almost to nothing: For we are assu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by Information of very able Clothiers, in the County of <hi>Devon,</hi> that there are 300. Pieces of Broad-Cloth made now less weekly, than formerly were made, and at least 1000. Pieces of mixt Sarges made lesse weekly, besides Kersies, Bayses, and other such Woollen Manufactures. For <hi>Example,</hi> in <hi>Hemiock, Ufculme,</hi> and <hi>Culmstock</hi> (th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee Parishes in the County of <hi>Devon</hi>) were made weekly formerly 120. Pieces of Cloth, which Parishes now make but 20. Pieces weekly, whence we may compute at least 200. Pieces of Cloth, made less than formerly, and 1000. pieces of Sarges, which is the lowest estimation, where we may see what a great loss this is to His Majesty, to the Gentry, the Farmer, and indeed to all Conditions, and Degrees.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>li.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>ss.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>I. If there be 200. Broad Clothes made less weekly than formerly, each Cloth paying the King almost 2. <hi>s.</hi> 2. <hi>d.</hi> ¾ for Custom, then H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s Ma<g ref="char:EOLunhyphen"/>jesty loseth for 200 Clo<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hes</cell>
+                        <cell>22.</cell>
+                        <cell>04.</cell>
+                        <cell>05.</cell>
+                     </row>
+                     <row>
+                        <cell>II. If there be 1000. Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ges made less weekly, each Sarge paying 9. <hi>d. per</hi> Pieces for Custom, H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>jesty loseth</cell>
+                        <cell>37.</cell>
+                        <cell>10.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell role="total"> </cell>
+                        <cell role="total">59.</cell>
+                        <cell role="total">14.</cell>
+                        <cell role="total">05.</cell>
+                     </row>
+                     <row>
+                        <cell>Thus then His M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>jesty receiveth short in His Customs</cell>
+                        <cell>59.</cell>
+                        <cell>14.</cell>
+                        <cell>05.</cell>
+                     </row>
+                     <row>
+                        <cell>III. The poor Trades-man loseth weekly the ma<g ref="char:EOLhyphen"/>king of 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0. B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oad Clothes, which at 5. <hi>l.</hi> 3. <hi>s</hi> a Cloth is</cell>
+                        <cell>1030.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>IV. The poor loseth also weekly for the ma<g ref="char:EOLhyphen"/>king of 1000. Sarges at 40. <hi>s</hi> a piece for Wages</cell>
+                        <cell>2000.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell role="total"> </cell>
+                        <cell role="total">3030.</cell>
+                        <cell role="total">00.</cell>
+                        <cell role="total">00.</cell>
+                     </row>
+                     <row>
+                        <cell>Thus then the poor man receives less in Wages</cell>
+                        <cell>3030.</cell>
+                        <cell>00.</cell>
+                        <cell>00.</cell>
+                     </row>
+                     <row>
+                        <cell>V. The Gentleman, and Farmer loseth the sel<g ref="char:EOLhyphen"/>ling of 76. <hi>l.</hi> of Wooll for each Cloth, which for 200. Pieces weekly is — <hi>li.</hi> Wooll. 15200.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>And for 1000. Sarges, each piece using 24. <hi>l.</hi> Wooll — 24000.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Thus then there is every week less Wooll sold — 39200.</cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>VI. Which 39200. <hi>l.</hi> of Wooll, valued at 14. <hi>d. per</hi> pound, so much the Gentleman, and Farme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> loseth the receiving in moneys weekly less than formerly</cell>
+                        <cell>2286.</cell>
+                        <cell>13.</cell>
+                        <cell>04.</cell>
+                     </row>
+                     <row>
+                        <cell role="total">
+                           <hi>Total.</hi>
+                        </cell>
+                        <cell role="total">5376.</cell>
+                        <cell role="total">07.</cell>
+                        <cell role="total">09.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p n="7">VII. And were not Trade by Interruption of the Company so decayed, (whereby you see there is near 40000. pounds weight of Wooll used less in one County than formerly every week (there would hardly be any Wooll carried out of the Kingdom, because when there were greater quantities of the Manufactures made within these few years (whiles the Company had no power) all the Wooll both of <hi>England</hi> and <hi>Ireland,</hi> was bought up from the Growers, that at the years end, scarce any old Wooll left, and at far greater prices than now it is, which gave them no opportunity or en<g ref="char:EOLhyphen"/>couragement to Transport it; And although Wooll at that time was dear (which made our Manufactures then far dearer also than now they are,) and we paid 3. <hi>s.</hi> Custome to His Majesty for each S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rge, (which now we pay but 9. <hi>d.</hi>) yet all sorts of Goods sold off quicker, and at better rates beyond the Seas than now; And the reason is, that then there was very little, or no Wooll at all Transported, by which means Strangers could not make our Manufactures, and now are great quantities made by them, which makes Goods cheap, and plenty in all Foreign Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, so that they desire not ours; The Cause (as I have shewed before) is the Interruption of Trade here, that the Wooll cannot be taken off from the Grower, which makes people use all the unlawful wayes to Transport it they can invent.</p>
+               <p n="8">VIII. It is now obvious to every man, that His Majesty, the Gentleman, and Farmer, the poor Trades-man, <hi>&amp;c.</hi> are by this decay in Trade, weekly, on but two sorts of Woollen Manufactures, losers of what they did receive, and might still, did not the said Company deterre Merchants 5376. <hi>l.</hi> 07. <hi>s.</hi> 09. <hi>d.</hi>
+               </p>
+               <p>If therefore Trade be so fallen in so short a time, what (may we fear) will become of this County, and Nation, when the French King was lately petition'd by some of his Subjects, to forbid the bringing of any of our Manufa<g ref="char:EOLhyphen"/>ctures into His Dominions, because there are such great quantities of said Commodities made there, as they all<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e to be sufficient for the whole Kingdome: And the Dutch Company forbid all others not Free of their Company, to T ade for <hi>Germany,</hi> or other the Provinces in the Neitherlands. This Kingdom must inevitably be ruined unl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss timely Course be taken to prevent the power of the said Company, and a free Trade permitted to all Merchants, pay ing His Majesty His due Customes: It is not to be imagined by the desiring of a free Trade, that all fo<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> people should be permitted to exercise the mistery of a Merchant, but such only who have been bred Merchants, or ser<g ref="char:EOLhyphen"/>ved an Apprentice, or used the Trade of a Merchant for seven years past, and no others, Then let the Manufactures be reformed as hath been already set forth, and demonstrated at large: Let the Laws against Transportation of Wooll, and such Materials as concern that Manufacture, be strictly put in Execution; And by Gods blessing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n our Endeavours, His Majest<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Revenue will be encreased, the Gentleman, and Farmer flourish, and the Poor live Comfortable; which is, and ever shall be my desire.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
